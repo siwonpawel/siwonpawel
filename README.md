@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Java programmer mostly focused on Spring / Spring Boot backend applications and I'm learning Angular to become fullstack-developer.  
+I'm Java programmer mostly focused on Spring / Spring Boot backend applications.  
 
 Currently working on [>my new project<](https://github.com/siwonpawel/microservice-restaurant) that I've started some time ago. Do you have an idea that fits this project well? Feel free to fill an issue 📫
 
