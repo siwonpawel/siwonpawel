@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Pawel
+[![Github](https://img.shields.io/github/followers/siwonpawel?label=Follow&style=social)](https://github.com/siwonpawel)
 
 I'm backend developer mostly focused on Spring / Spring Boot / Go.  
 
-Currently working on [>my new project<](https://github.com/siwonpawel/microservice-restaurant) that I've started some time ago. Do you have an idea that fits this project well? Feel free to fill an issue 📫
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwonpawel&hide=html&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwonpawel&hide=html&layout=compact&theme=dark)  
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siwonpawel&show_icons=true&theme=dark&include_all_commits=true)
  
 <!--
