@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-I'm Java programmer mostly focused on Spring / Spring Boot backend applications.  
+I'm backend developer mostly focused on Spring / Spring Boot / Go.  
 
 Currently working on [>my new project<](https://github.com/siwonpawel/microservice-restaurant) that I've started some time ago. Do you have an idea that fits this project well? Feel free to fill an issue 📫
 
-I'm looking to colaborate on some frontend projects too!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siwonpawel&hide=html&layout=compact&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=siwonpawel&show_icons=true&theme=dark&include_all_commits=true)
  
 <!--
 **siwonpawel/siwonpawel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
